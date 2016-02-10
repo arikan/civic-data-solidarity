@@ -3,6 +3,7 @@
 Çalışılmakta olan veri protokolleri: 
 
 - Emek mücadelesi veri protokolü
+- İklim/çevre mücadelesi veri protokolü
 - Kent mücadelesi veri protokolü
 - Kadın mücadelesi veri protokolü
 - LGBTİ mücadelesi veri protokolü
