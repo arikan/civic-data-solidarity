@@ -11,8 +11,8 @@ The project will employ workshops with experts from civil society initiatives; f
 
 **Civic data**: Data generated about civil society issues. The subject agent of civic data is not citizens or consumers, but companies, governments, and systems.
 
-**Solidarity**: A social principle that produces unities of interests, objectives, standards, and sympathies.[1] Solidarity is maintained through the interdependence and interoperation of its constituents.
+**Solidarity**: A social principle that produces unities of interests, objectives, standards, and sympathies. Solidarity is maintained through the interdependence and interoperation of its constituents.
 
-**Communication Protocol**: A system of rules that allow multiple entities of a communications system to transmit information. The protocol defines the rules syntax, semantics and synchronization of communication and possible error recovery methods.[2]
+**Communication Protocol**: A system of rules that allow multiple entities of a communications system to transmit information. The protocol defines the rules syntax, semantics and synchronization of communication and possible error recovery methods.[2](https://en.wikipedia.org/wiki/Communication_protocol)
 
 **Protocol for civic data solidarity**: A schema for structuring data about civil society issues in order to facilitate its interoperation among civil society projects and tools.
