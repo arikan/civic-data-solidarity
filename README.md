@@ -7,7 +7,7 @@ This project aims to build a protocol to make civic data interoperable across ci
 The project will employ workshops with experts from civil society initiatives; facilitate discussion of ideas, tradeoffs, and needs to bring isolated data types together; review other existing solutions; and distill the information into diagrams and schemes, and develop the first version of a protocol for civic data solidarity.
 
 
-### Specifications
+### Terms
 
 **Data**: Measurements, recordings, or observed facts generated about human or nonhuman activities.
 
