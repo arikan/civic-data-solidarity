@@ -50,5 +50,12 @@ There are [techniques for eliminating duplicate copies of repeating data](https:
 
 #### Combining and linking data could be catastrophic, how can we prevent vulnerable subjects?
 
+#### Data fidelity could be high, medium or low, when combined how does that effect output fidelity?
+
+#### How could we incentivize data stewardship?
+
+#### What data sets can be combined?
+
 #### Does the political orientation of the data-generating organization matter?  
 
+#### How does data turn into political change?
