@@ -72,11 +72,11 @@ Although multiple organizations work under the sign of "Climate Change", this do
 
 #### What are some common data types among civic data sets?
 
-#### Combining and linking data could be catastrophic, how can we prevent vulnerable subjects?
+#### Combining and linking data could be catastrophic, how can we protect vulnerable subjects?
 
 #### Data fidelity could be high, medium or low, when combined how does that effect output fidelity?
 
-#### How might you cross baseline "official" data set with other less “full” community data sets?
+#### How might you cross a baseline "official" data set with other less “full” community data sets?
 
 ### Impact
 
@@ -84,6 +84,6 @@ Although multiple organizations work under the sign of "Climate Change", this do
 
 #### How to use civic data for sustained timely data-informed arguments?
 
-#### How to use civic data to increase civil society perspective on the awareness about issues?
+#### How to use civic data to amplify the voices of those affected by that issue?
 
-#### How to support civic software using data from civil society?
+#### How to support development of civic software that uses data from civil society?
