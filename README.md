@@ -18,3 +18,15 @@ The project will employ workshops with experts from civil society initiatives; f
 **Communication Protocol**: A system of rules that allow multiple entities of a communications system to transmit information. The protocol defines the rules syntax, semantics and synchronization of communication and possible error recovery methods.[2](https://en.wikipedia.org/wiki/Communication_protocol)
 
 **Protocol for civic data solidarity**: A schema for structuring data about civil society issues in order to facilitate data interoperation among civil society projects and tools.
+
+### FAQ
+
+##### Who is the subject or agent of civic data?
+Subjects or agents are companies, governments, roles, and systems, not citizens or consumers.
+
+#### What makes a data set trustworthy?
+References to data, frequent use of data in other contexts, critique of data are some of the ways for ensuring trust for a data set.
+
+###### How to deduplicate data points that are similar but written differently?
+There are [techniques for eliminating duplicate copies of repeating data](https://en.wikipedia.org/wiki/Data_deduplication).
+
