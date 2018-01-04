@@ -21,7 +21,7 @@ The project will organize workshops with experts from civil society initiatives 
 
 **Solidarity**: A social principle that produces unities of interests, objectives, standards, and sympathies. Solidarity is maintained through the interdependence and interoperation of its constituents.
 
-**Communication Protocol**: A system of rules that allow multiple entities of a communications system to transmit information. The protocol defines the rules syntax, semantics and synchronization of communication and possible error recovery methods.[2](https://en.wikipedia.org/wiki/Communication_protocol)
+**Communication Protocol**: A system of rules that allow networked computers to transmit information among each other. The protocol defines the rules syntax, semantics and synchronization of communication and possible error recovery methods. [2](https://en.wikipedia.org/wiki/Communication_protocol)
 
 **Protocol for civic data solidarity**: A schema for structuring data about civil society issues in order to facilitate data interoperation among civil society projects and tools.
 
