@@ -30,3 +30,25 @@ References to data, frequent use of data in other contexts, critique of data are
 #### How to deduplicate data points that are similar but written differently?
 There are [techniques for eliminating duplicate copies of repeating data](https://en.wikipedia.org/wiki/Data_deduplication).
 
+### FAQ to be Completed
+
+#### How to ensure quality and integrity of a data set?
+
+#### How might you cross baseline "official" data set with other less “full” community data sets?
+
+#### What is the pipeline of generating civic data?
+
+#### What is ethical sharing or publishing data?
+
+#### How to attribute data set to its authors?
+
+#### Data intellectual property license?
+
+#### How to assess ownership shares in collectively generated data sets?
+
+#### Is there an appropriate use of civic data?
+
+#### Combining and linking data could be catastrophic, how can we prevent vulnerable subjects?
+
+#### Does the political orientation of the data-generating organization matter?  
+
