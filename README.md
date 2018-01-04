@@ -21,12 +21,12 @@ The project will employ workshops with experts from civil society initiatives; f
 
 ### FAQ
 
-##### Who is the subject or agent of civic data?
+#### Who is the subject or agent of civic data?
 Subjects or agents are companies, governments, roles, and systems, not citizens or consumers.
 
 #### What makes a data set trustworthy?
 References to data, frequent use of data in other contexts, critique of data are some of the ways for ensuring trust for a data set.
 
-###### How to deduplicate data points that are similar but written differently?
+#### How to deduplicate data points that are similar but written differently?
 There are [techniques for eliminating duplicate copies of repeating data](https://en.wikipedia.org/wiki/Data_deduplication).
 
