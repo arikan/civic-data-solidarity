@@ -42,7 +42,7 @@ There are [techniques for eliminating duplicate copies of repeating data](https:
 
 #### How to attribute data set to its authors?
 
-#### Data intellectual property license?
+#### What data intellectual property license should we use?
 
 #### How to assess ownership shares in collectively generated data sets?
 
