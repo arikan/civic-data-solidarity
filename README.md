@@ -52,7 +52,7 @@ Although multiple organizations work under the sign of "Climate Change", this do
 
 #### What makes a data set easily useable?
 
-### Publishing
+### Publishing & Sharing
 
 #### What makes a data set discoverable and accessible?
 
