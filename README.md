@@ -58,15 +58,11 @@ Although multiple organizations work under the sign of "Climate Change", this do
 
 #### What makes a data set robustly preserved?
 
-#### What are some common data publishing formats?
+#### What are some common publishing formats for data sets?
 
-#### What license can be used for intellectual property of a data set?
+#### What license can be used for attribution and intellectual property of a data set?
 
 #### How to assess ownership in collectively generated data sets?
-
-#### How to attribute a data set to its authors?
-
-#### Is there an appropriate use of civic data?
 
 ### Linking & Use
 
