@@ -6,7 +6,7 @@ Increasingly, a new generation of civil society initiatives is generating data o
 
 This project aims to build a protocol to make civic data interoperable across civil society projects and tools. By doing so, it will create new networks and contribute to solidarity among the civil society organizations.
 
-The project will organize workshops with experts from civil society initiatives in order to facilitate discussions around the need to bring isolated civic data sets together, and the consideration of possible tradeoffs between different civil society groups. The project will also review existing solutions and distill the information into diagrams and data schemes in order to develop the first version of a protocol for civic data solidarity.
+The project will organize workshops with experts from civil society initiatives in order to facilitate discussions around the need to connect isolated civic data sets, the consideration of possible tradeoffs for data standardization between different civil society groups, and the use of data connections for civic causes. The project will also review existing solutions and distill the information into diagrams and data schemes in order to develop the first version of a protocol for civic data solidarity.
 
 
 ## Terms
